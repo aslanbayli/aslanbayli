@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ## Learning 
 <div align="left">
-    <img alt="mojo" src="https://modular-assets.s3.amazonaws.com/images/mojo_github_logo_bg.png" height="65px" style="margin: 0px;"/> 
+    <img alt="mojo" src="https://github.com/aslanbayli/aslanbayli/blob/main/assets/mojo-logo.png" height="65px"/> 
 </div>
 
 <!--
