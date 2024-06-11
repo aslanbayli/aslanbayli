@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🎉 I have graduated from the <b>University of South Florida</b> with a Bachelors in Computer Science
 - 📚 Pursuing Masters in Computer Engineering at <b>New York University</b>
 - 📑 Working on a research paper to enhance biometrics using Machine Learning
-- 🔥 Currently learning the Mojo programming langauge to build an ML framework from scratch
+- 🔥 Currently deepening my undertanding of function calling in LLMs
 - ⚡ Some of my interests are weightlifting, aquascpaing, and competitvive programming.
 
 <br/>
@@ -102,9 +102,9 @@ Here are some ideas to get you started:
 ## Learning 
 
 <div align="left">
-        <a href="https://www.modular.com/max/mojo">
+<!--         <a href="https://www.modular.com/max/mojo">
                 <img alt="mojo" src="https://github.com/aslanbayli/aslanbayli/blob/main/assets/mojo-logo.png" height="65px"/> 
-        </a>
+        </a> -->
         <a href="https://developer.nvidia.com/cuda-toolkit">
                 <img alt="cuda" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cuda.svg" height="70px"/> 
         </a>
