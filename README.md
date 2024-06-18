@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 📚 Pursuing Masters in Computer Engineering at <b>New York University</b>
 - 📑 Working on a research paper to enhance biometrics using Machine Learning
 - 🔥 Currently deepening my undertanding of function calling in LLMs
-- ⚡ Some of my interests are weightlifting, aquascpaing, and competitvive programming.
+- ⚡ Some of my hobbies are cooking 👨‍🍳, weightlifting 💪, and competitvive programming 💻.
 
 <br/>
 
