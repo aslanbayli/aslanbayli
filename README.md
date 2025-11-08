@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎉 I have graduated from the <b>University of South Florida</b> with a Bachelors in Computer Science
 - 📚 Pursuing Masters in Computer Engineering at <b>New York University</b>
-- 📑 Working on a research paper to enhance biometrics using Machine Learning
-- 🔥 Currently deepening my undertanding of function calling in LLMs
-- ⚡ Some of my hobbies are cooking 👨‍🍳, weightlifting 💪, and competitvive programming 💻.
+- 📑 Working on a research paper to enhance biometrics using Machine Learning and Computer Vision
+- 🔥 Currently deepening my undertanding of Agentic LLM workflows and Model-Context-Protocol (MCP)
+- ⚡ Some of my hobbies are cooking 👨‍🍳, weightlifting 💪, and Mixed Martial Arts 🥊.
 
 <br/>
 
